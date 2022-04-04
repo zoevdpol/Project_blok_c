@@ -30,7 +30,7 @@ void go(){
   digitalWrite(motorReverse1Pin, HIGH);
   digitalWrite(motorForward2Pin, HIGH); 
   digitalWrite(motorReverse2Pin, LOW);
-  delay(5);
+  delay(6);
   }
 
 void reverse(){
